@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package West Norwood Feast - Astra Childs
+ * @package West Norwood Feast - Astra Childsy
  * @since 1.0.0
  */
 
