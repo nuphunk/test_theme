@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
  *
- * @package Dev Theme - Astra Child
+ * @package West Norwood Feast - Astra Child
  * @since 1.0.0
  */
 
